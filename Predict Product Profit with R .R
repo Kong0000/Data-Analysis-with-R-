@@ -1,5 +1,7 @@
 # Problem
-# The sales team of Blackwell Electronics has some concerns about ongoing product sales in one of their stores. They have been tracking the sales performance of specific product types and would like the data science team to do a product profitability prediction analysis. This will help the sales team better understand how types of products might impact sales across the enterprise.
+# The sales team of Blackwell Electronics has some concerns about ongoing product sales in one of their stores. 
+# They have been tracking the sales performance of specific product types and would like the data science team to do a product profitability prediction analysis. 
+# This will help the sales team better understand how types of products might impact sales across the enterprise.
 
 # Goals
 #  .	Predict the sales in four different product types.
